@@ -2,7 +2,11 @@
 
 ## Project setup
 ```
-npm install
+npm install vue
+npm install v-network-graph
+npm install node-sass 
+npm install element-plus
+npm install sass-loader
 ```
 
 ### Compiles and hot-reloads for development
